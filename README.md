@@ -1,2 +1,2 @@
-# hangman
-Hangman with words randomly chosen from a list of 10,000
+# Hangman
+Words are randomly chosen from a list of 10,000
